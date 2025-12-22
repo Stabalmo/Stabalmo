@@ -1,4 +1,4 @@
-# Hi, I'm [Danila Alferov] 👋
+# Hi, I'm Danila Alferov 👋
 
 I'm a passionate DevSecOps engineer with a focus on automating infrastructure, enhancing security in CI/CD pipelines, and building scalable cloud solutions. With experience in tools like Terraform, Ansible, AWS, Hetzner, and Golang, I enjoy creating efficient, secure systems that bridge development and operations. Currently exploring advanced topics in hybrid-cloud networking and performance optimization.
 
