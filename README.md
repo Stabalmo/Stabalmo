@@ -13,7 +13,7 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 Here are my certifications, categorized by focus area. Each links to the verification page or certificate PDF.
 
 ### Cloud Computing
-- [WIZ - Cloud Computing Exellence](https://example.com/aws-cert) – Issued by WIZ, 2025
+- [WIZ - Cloud Computing Exellence](https://www.cloudhuntinggames.com/certificate/exfilcola/fa1ed3ed-2754-458d-8c2a-51f0ed26ebba) – Issued by WIZ, 2025
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/Stabalmo) or check out my [personal website](https://stabalmo.pro).
 
