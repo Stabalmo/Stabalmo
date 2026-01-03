@@ -9,9 +9,9 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,golang,bash&perline=13)](#)
 ### DevOps Tools:
-[![My Skills](https://skillicons.dev/icons?i=Terraform,Ansible,Docker,Kubernetes&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes&perline=13)](#)
 ### Cloud Platforms: 
-[![My Skills](https://skillicons.dev/icons?i=AWS,Hetzner,Azure&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,hetzner,azure&perline=13)](#)
 ### Security:
 Kali Linux, Nmap, Metasploit, DevSecOps practices
 ### Other:
