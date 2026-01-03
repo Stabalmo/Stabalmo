@@ -6,13 +6,16 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 ## Skills
-- **Languages**:
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=python,golang,bash&perline=13)](#)
-### DevOps Tools: 
-Terraform, Ansible, Docker, Kubernetes
-- **Cloud Platforms**: AWS, Hetzner Cloud, Azure (basic)
-- **Security**: Kali Linux, Nmap, Metasploit, DevSecOps practices
-- **Other**: GitHub Actions, CI/CD pipelines, Infrastructure as Code (IaC)
+### DevOps Tools:
+[![My Skills](https://skillicons.dev/icons?i=Terraform,Ansible,Docker,Kubernetes&perline=13)](#)
+### Cloud Platforms: 
+[![My Skills](https://skillicons.dev/icons?i=AWS,Hetzner,Azure&perline=13)](#)
+### Security:
+Kali Linux, Nmap, Metasploit, DevSecOps practices
+### Other:
+GitHub Actions, CI/CD pipelines, Infrastructure as Code (IaC)
 
 ## Certificates
 Here are my certifications, categorized by focus area. Each links to the verification page or certificate PDF.
