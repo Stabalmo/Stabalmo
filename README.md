@@ -8,7 +8,7 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,python,terraform,docker,golang,bash,cloudflare,linux &perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,python,terraform,docker,golang,bash,cloudflare,linux&perline=13)](#)
 
 ## Certificates
 Here are my certifications, categorized by focus area. Each links to the verification page or certificate PDF.
