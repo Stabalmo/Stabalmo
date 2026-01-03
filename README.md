@@ -6,8 +6,10 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
 ## Skills
-- ### Languages: [![My Skills](https://skillicons.dev/icons?i=python,golang,bash&perline=13)](#)
-- **DevOps Tools**: Terraform, Ansible, Docker, Kubernetes
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=python,golang,bash&perline=13)](#)
+### DevOps Tools: 
+Terraform, Ansible, Docker, Kubernetes
 - **Cloud Platforms**: AWS, Hetzner Cloud, Azure (basic)
 - **Security**: Kali Linux, Nmap, Metasploit, DevSecOps practices
 - **Other**: GitHub Actions, CI/CD pipelines, Infrastructure as Code (IaC)
