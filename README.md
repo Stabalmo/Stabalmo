@@ -22,4 +22,6 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/Stabalmo) or 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stabalmo&show_icons=true&theme=radical)
 
-Thanks for visiting! 🚀
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
