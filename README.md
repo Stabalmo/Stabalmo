@@ -5,17 +5,10 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 - You can reach me through: <a href="mailto:danila.alferov.dev@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/34653227591" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/stabalmo/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
-## Skills
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,golang,bash&perline=13)](#)
-### DevOps Tools:
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes&perline=13)](#)
-### Cloud Platforms: 
-[![My Skills](https://skillicons.dev/icons?i=aws,hetzner,azure&perline=13)](#)
-### Security:
-Kali Linux, Nmap, Metasploit, DevSecOps practices
-### Other:
-GitHub Actions, CI/CD pipelines, Infrastructure as Code (IaC)
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,python,terraform,docker,golang,bash,cloudflare,linux &perline=13)](#)
 
 ## Certificates
 Here are my certifications, categorized by focus area. Each links to the verification page or certificate PDF.
