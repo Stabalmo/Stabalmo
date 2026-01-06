@@ -14,6 +14,7 @@ I'm a passionate DevSecOps engineer with a focus on automating infrastructure, e
 Here are my certifications, categorized by focus area. Each links to the verification page or certificate PDF.
 
 ### Cloud Computing
+- [Docker Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/ba1e83528db596cca3599952d7a095af0a4d603aa387e82f1b67b330e767fec5?trk=share_certificate)
 - [WIZ - Cloud Computing Exellence](https://www.cloudhuntinggames.com/certificate/exfilcola/fa1ed3ed-2754-458d-8c2a-51f0ed26ebba) – Issued by WIZ, 2025
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/Stabalmo) or check out my [personal website](https://stabalmo.pro).
